@@ -5,7 +5,6 @@ speech, built to keep end-to-end latency under 2 seconds and to stay
 conversational — never silent, never a generic error — when a response is
 slow.
 
-Built for the AI Engineering Intern assignment.
 
 ## Table of contents
 
